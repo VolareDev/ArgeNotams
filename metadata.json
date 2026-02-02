@@ -1,0 +1,7 @@
+{
+  "name": "ArgenNOTAMs",
+  "description": "A real-time NOTAM visualization and search tool for Argentina's international airports",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
